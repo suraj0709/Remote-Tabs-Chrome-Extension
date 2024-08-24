@@ -1,7 +1,7 @@
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://yokumarsuraj:dLDVbwp4MWhbHf0y@cluster0.wldpkrv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      uri: mongodb+srv://username:password@cluster0.wldpkrv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
       database: remote_tabs
       auto-index-creation: true
 
